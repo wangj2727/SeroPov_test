@@ -5,9 +5,11 @@ Data and R codes for manuscript "Mapping a Pandemic: SARS-CoV-2 Seropositivity i
 ## Raw Data
 (Note: Currently not available in this GitHub repo, but will be posted later.)
 
-1. Behavioral Risk Factor Surveillance (BRFSS) data
-2. U.S. Census 2018 data
-3. Serosurvey data
+1. 2018 Behavioral Risk Factor Surveillance (BRFSS) data
+data source: https://www.cdc.gov/brfss/annual_data/annual_2018.html
+
+3. U.S. Census 2018 data
+4. Serosurvey data
 
 
 
