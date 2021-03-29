@@ -14,7 +14,7 @@ Data and R codes for manuscript "Mapping a Pandemic: SARS-CoV-2 Seropositivity i
 
 
 ## R codes
-R codes for the following tables/figures are included:
+R codes to generate the following tables/figures are included:
 
 1. **Table 1**: Characteristics of serosurvey population in comparison to United States population
 2. **Supplemental Table 4**: Comparison of weighed proportions from the BRFSS to the proportions from the US Census
