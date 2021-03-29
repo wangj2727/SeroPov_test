@@ -8,7 +8,7 @@ Data and R codes for manuscript "Mapping a Pandemic: SARS-CoV-2 Seropositivity i
 1. 2018 Behavioral Risk Factor Surveillance (BRFSS) data
  (source: https://www.cdc.gov/brfss/annual_data/annual_2018.html)
 
-3. U.S. Census 2018 data
+3. U.S. Census data
 4. Serosurvey data
 
 
@@ -22,3 +22,5 @@ R codes to generate the following tables/figures are included:
 4. **Figure 4**: Characteristics of serosurvey population in comparison to United States population
 
 
+## Note
+Each of the main folder contains one data folder, one R folder, and one Readme file. The excel file *"Folder_ReferenceChart.xlsx"* list the structure of this site. 
