@@ -1,3 +1,5 @@
+# The officially released repo could be found here: https://github.com/niaid/SARSCoV2-US-serosurvey-2020
+
 # SARSCoV2-US-serosurvey-2020 (draft version) 
 Data and R codes for manuscript "Mapping a Pandemic: SARS-CoV-2 Seropositivity in the United States"
 (Data are currently unavailable, but will be posted later.)
